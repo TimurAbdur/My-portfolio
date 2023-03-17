@@ -11,6 +11,9 @@
 	box-sizing: border-box;
 }
 
+html {
+    scroll-behavior: smooth;
+}
 /* Links */
 
 a, a:link, a:visited  {
