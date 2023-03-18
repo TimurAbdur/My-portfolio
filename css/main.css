@@ -292,3 +292,19 @@ footer {
     Font-size: 16px;
     Line-height: 24px;
 }
+
+
+@media (max-width: 620px) {
+    .header__title {
+        font-size: 30px;
+    }
+    .header__title strong {
+        font-size: 40px;
+    }
+    .title-1 {
+        font-size: 40px;
+    }
+    .title-2 {
+        font-size: 30px;
+    }
+}
